@@ -10,6 +10,9 @@ namespace cmdlaba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
+            Console.WriteLine("goodbye world");
+            Console.ReadKey();
         }
     }
 }
